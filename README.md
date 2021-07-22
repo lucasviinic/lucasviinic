@@ -1,12 +1,13 @@
-<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="350px" align="right">
+<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="400px" align="right">
 
 # Hello, folks! 👋
 
 #### I'm a undergraduate Computer Science student, in shortly,
 
 - 👨‍💻 I’m currently working as a software developer, using mostly JavaScript, Python and their respective frameworks React Native and Flask.
-- 🌱 I'm currently learning the powerful Django framework!
-- 🐍 I'm constantly studying Python and keeping up with its news
+- 🎯 I'm currently learning the powerful Django framework!
+- 🐍 I'm constantly studying Python and keeping up with its news.
+- 👀 In my hobby, I am dedicated to reading, studying algorithms and solving competitive programming problems.
 
 ## 🔧 Technologies & Tools
 
@@ -19,7 +20,7 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/lucasviinic/lucasviinic">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasviinic&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Lucas Vinícius Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasviinic&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Lucas Vinícius Stats" />
 </a>
 <a href="https://github.com/lucasviinic/lucasviinic">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasviinic&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lucas Vinícius Stats" />
