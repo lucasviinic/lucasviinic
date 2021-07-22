@@ -30,7 +30,12 @@
   <img src="https://avatars.githubusercontent.com/u/10251060?s=280&v=4" width="30px">
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasviinic&theme=dark" />
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasviinic&theme=dark&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasviinic&theme=dark&layout=compact" />
+
+---
 
 
 
