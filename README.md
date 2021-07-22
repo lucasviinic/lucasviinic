@@ -1,5 +1,13 @@
 ### Hi there, I'm Lucas Vinícius 👋
 
+#### I'm a undergraduate Computer Science student, in shortly,
+
+---
+- 💻 I’m currently working as a software developer, using mostly JavaScript, Python and their respective frameworks React Native and Flask.
+- 🌱 I'm currently studying the powerful Django framework!
+- 🐍 I'm constantly studying Python and keeping up with its news
+- 
+
 <!--
 **lucasviinic/lucasviinic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
