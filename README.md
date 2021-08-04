@@ -1,13 +1,13 @@
 <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="400px" align="right">
 
-# Hello, folks! 👋
+# Hello folks! 👋
 
-#### I'm a undergraduate Computer Science student, in shortly,
+#### Sou estudante de Ciência da Computação 
 
-- 👨‍💻 I’m currently working as a software developer, using mostly JavaScript, Python and their respective frameworks React Native and Flask.
-- 🎯 I'm currently learning the powerful Django framework!
-- 🐍 I'm constantly studying Python and keeping up with its news.
-- 🔭 I'm a lover of astronomy and space exploration, and I hope that the programming will contribute (at least a little) to advances in these areas. 🙂
+- 👨‍💻 Trabalho como desenvolvedor de software, usando majoritariamente JavaScript, Python e seus respectivos frameworks React Native e Flask.
+- 🎯 Atualmente, também estou estudando o poderoso framework Python, Django!
+- 🐍 Estou constantemente estudando novos aspectos do Python
+- 🔭 Sou um amante da astronomia e exploração espacial, e espero com a programação contribuir (ao menos um pouco) com avanços nessas áreas. 🙂
 
 ## 🔧 Technologies & Tools
 
