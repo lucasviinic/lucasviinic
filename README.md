@@ -2,7 +2,7 @@
 
 # Hello folks! 👋
 
-#### Sou estudante de Ciência da Computação 
+#### Sou estudante de Ciência da Computação e, em resumo eu,
 
 - 👨‍💻 Trabalho como desenvolvedor de software, usando majoritariamente JavaScript, Python e seus respectivos frameworks React Native e Flask.
 - 🎯 Atualmente, também estou estudando o poderoso framework Python, Django!
