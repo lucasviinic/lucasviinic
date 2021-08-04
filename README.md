@@ -7,7 +7,8 @@
 - 👨‍💻 I’m currently working as a software developer, using mostly JavaScript, Python and their respective frameworks React Native and Flask.
 - 🎯 I'm currently learning the powerful Django framework!
 - 🐍 I'm constantly studying Python and keeping up with its news.
-- 👀 In my hobby, I am dedicated to reading, studying algorithms and solving competitive programming problems.
+- 👀 In my hobby, I am dedicated to reading, solving competitive programming problems.
+- 🔭 I'm a lover of astronomy and space exploration, and I hope that the programming will contribute (at least a little) to advances in these areas. 🙂
 
 ## 🔧 Technologies & Tools
 
