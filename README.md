@@ -6,7 +6,6 @@
 
 - 👨‍💻 Trabalho como desenvolvedor de software, usando majoritariamente JavaScript, Python e seus respectivos frameworks React Native e Flask.
 - 🎯 Atualmente, também estou estudando o poderoso framework Python, Django!
-- 🐍 Estou constantemente estudando novos aspectos do Python
 - 🔭 Sou um amante da astronomia e exploração espacial, e espero com a programação contribuir (ao menos um pouco) com avanços nessas áreas. 🙂
 
 ## 🔧 Technologies & Tools
