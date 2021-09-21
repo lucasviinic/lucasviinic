@@ -4,30 +4,30 @@
 
 #### Sou estudante de Ciência da Computação e, em resumo eu,
 
-- 👨‍💻 Trabalho como desenvolvedor de software, usando majoritariamente JavaScript, Python e seus respectivos frameworks React Native e Flask.
+- 👨‍💻 Trabalho como desenvolvedor de software, usando majoritariamente Python, JavaScript e seus respectivos frameworks Flask e React Native.
 - 🎯 Atualmente, também estou estudando o poderoso framework Python, Django!
 - 🔭 Sou um amante da astronomia e exploração espacial, e espero com a programação contribuir (ao menos um pouco) com avanços nessas áreas.
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6959CD)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio&logoColor=white&color=6959CD)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6959CD)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6959CD)
+![](https://img.shields.io/badge/Library-ReactJs-informational?style=flat&logo=react&logoColor=white&color=6959CD)
+![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=6959CD)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=6959CD)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=6959CD)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6959CD)
+![](https://img.shields.io/badge/Tools-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=6959CD)
 
 ## 📈 GitHub Stats
 
 <a href="https://github.com/lucasviinic/lucasviinic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasviinic&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Lucas Vinícius Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasviinic&theme=tokyonight&layout=compact" alt="Lucas Vinícius Stats" />
 </a>
 <a href="https://github.com/lucasviinic/lucasviinic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasviinic&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lucas Vinícius Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasviinic&theme=tokyonight&show_icons=true" alt="Lucas Vinícius Stats" />
 </a>
 
 <!-- Apresentação em construção 🤫 -->
