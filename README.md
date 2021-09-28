@@ -29,5 +29,3 @@
 <a href="https://github.com/lucasviinic/lucasviinic">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasviinic&theme=tokyonight&show_icons=true&line_height=20" alt="Lucas Vinícius Stats" />
 </a>
-
-<!-- Apresentação em construção 🤫 -->
