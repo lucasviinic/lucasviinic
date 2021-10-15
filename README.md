@@ -8,7 +8,7 @@
 - 🎯 Atualmente, estou estudando o poderoso framework Django!
 - 🔭 Sou um amante da astronomia e exploração espacial, e espero com a programação contribuir (ao menos um pouco) com avanços nessas áreas.
 
-## 🔧 Technologies & Tools
+## 🔧 Linguagens e Tecnologias
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio&logoColor=white&color=6959CD)
