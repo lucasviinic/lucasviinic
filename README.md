@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=6959CD)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6959CD)
 
 ## 📈 GitHub Stats
 
