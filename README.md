@@ -4,14 +4,16 @@
 
 #### Sou estudante de Ciência da Computação e, em resumo eu,
 
-- 👨‍💻 Trabalho como desenvolvedor de software, usando majoritariamente Python, JavaScript e seus respectivos frameworks Flask e React Native.
-- 🎯 Atualmente, estou estudando o poderoso framework Django!
-- 🔭 Sou um amante da astronomia e exploração espacial, e espero com a programação contribuir (ao menos um pouco) com avanços nessas áreas.
+- 👨‍💻 Trabalho como Desenvolvedor Fullstack na <a href="https://www.indico.net.br/">Indico</a>.
+- 🔭 Autodidata com curiosidade no sangue, estou sempre me aprimorando e estudando novas tecnologias.
+- 📚 Atualmente explorando o grande poder do Go e, incluindo esta poderosa linguagem no meu arsenal.
+- 🎯 Grandes problemas não me intimidam, a programação para mim, é um estilo de vida.
 
 ## 🔧 Linguagens e Tecnologias
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio&logoColor=white&color=6959CD)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=6959CD)
