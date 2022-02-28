@@ -4,7 +4,7 @@
 
 #### Sou estudante de Ciência da Computação e, em resumo eu,
 
-- 🔭 Autodidata com curiosidade no sangue, estou sempre me aprimorando e estudando novas tecnologias.
+- 🔭 Sou autodidata com curiosidade no sangue, estou sempre me aprimorando e estudando novas tecnologias.
 - 📚 Atualmente explorando o grande poder do Go e, incluindo esta poderosa linguagem no meu arsenal.
 - 🎯 Grandes problemas não me intimidam, a programação para mim, é um estilo de vida.
 
