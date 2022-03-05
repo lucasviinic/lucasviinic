@@ -8,9 +8,12 @@
 - 📚 Atualmente explorando o grande poder do Go e, incluindo esta poderosa linguagem no meu arsenal.
 - 🎯 Grandes problemas não me intimidam, a programação para mim, é um estilo de vida.
 
-## 🔧 Linguagens e Tecnologias
+## 🔧 Tecnologias
+
+### Sistemas
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6959CD)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6959CD)
@@ -19,6 +22,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Library-ReactJs-informational?style=flat&logo=react&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=6959CD)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6959CD)
