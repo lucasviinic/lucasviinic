@@ -8,7 +8,7 @@
 - 📚 Atualmente explorando o grande poder do Go e, incluindo esta poderosa linguagem no meu arsenal.
 - 🎯 Grandes problemas não me intimidam, a programação para mim, é um estilo de vida.
 
-## 🔧 Tecnologias
+## 👨‍💻 Tecnologias
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6959CD)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6959CD)
